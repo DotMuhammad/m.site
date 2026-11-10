@@ -1,0 +1,6 @@
+{
+  "name": "Étoile & Rose Atelier",
+  "description": "World-class luxury pink haute beauty, fine fragrance, and silk couture boutique with instant WhatsApp direct ordering, automated PDF invoicing, live order tracking, and administrative store management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
